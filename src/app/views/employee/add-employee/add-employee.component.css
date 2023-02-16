@@ -1,0 +1,21 @@
+.error-message{
+    color: #b20707 !important;
+    font-size: 13px;
+}
+.validation-errors .error-message1{
+    margin-left: 10px;
+    margin-top: 2px;
+    color: #b20707 !important;
+    font-size: 13px;
+}
+th{
+    background-color: #ba3f3f !important;  
+    color: #ffff !important;
+    font-weight: bold;
+    border-left: 2px solid #ffff;
+    height: 45px;
+    
+}
+td{
+    padding: 10px;
+}
